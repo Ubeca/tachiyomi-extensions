@@ -1,2 +1,2 @@
 # tachiyomi-extensions
-epositório de extensões para Tachiyomi
+Repositório de extensões para Tachiyomi
